@@ -10,13 +10,13 @@ http://docs.aws.amazon.com/sdk-for-ruby/v2/developer-guide/setup-config.html
 
 Then
 
-'''
+```
 > ruby test.rb 
-'''
+```
 
 This should give the output
 
-'''
+```
 budgester@thor ~/src/tech-tests/masabi $ ruby test.rb 
 {
   "alice": [
@@ -34,4 +34,4 @@ budgester@thor ~/src/tech-tests/masabi $ ruby test.rb
     "AKIAI6GHIKUUJBTJFAIL"
   ]
 }
-'''
+```
