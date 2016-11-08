@@ -10,7 +10,9 @@ http://docs.aws.amazon.com/sdk-for-ruby/v2/developer-guide/setup-config.html
 
 Then
 
-#> ruby test.rb 
+'''
+> ruby test.rb 
+'''
 
 This should give the output
 
